@@ -1,0 +1,8 @@
+target/
+*.class
+.release-*/
+.picnicktreeruns-private/
+DreamBot/
+BotData/
+src/
+pom.xml

@@ -1,0 +1,8 @@
+﻿Name: PicNickTreeRuns
+Category: Farming
+Module: PicNickScripts
+Parameters: PicNickTreeRuns
+QuickStart: No
+Ironman: Yes, where account supplies and requirements allow
+Icon: assets/picnicktreeruns-200.png
+Status: Pending DreamBot SDN approval/submission
